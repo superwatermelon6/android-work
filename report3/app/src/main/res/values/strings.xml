@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="one_one">one_one</string>
+    <string name="one_two">one_one</string>
+    <string name="one_three">one_one</string>
+    <string name="one_four">one_four</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="two_one">two_one</string>
+    <string name="two_two">two_two</string>
+    <string name="two_three">two_three</string>
+    <string name="two_four">two_four</string>
+    <string name="three_one">three_one</string>
+    <string name="three_two">three_two</string>
+    <string name="three_three">three_three</string>
+    <string name="three_four">three_four</string>
+    <string name="four_one">four_one</string>
+    <string name="four_two">four_two</string>
+    <string name="four_three">four_three</string>
+    <string name="four_four">four_four</string>
+</resources>
